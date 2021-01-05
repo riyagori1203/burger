@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive virtual burger building app, using react with a backend for recording order history, options for adding, deleting the ingredients.
 
 ## Available Scripts
 
